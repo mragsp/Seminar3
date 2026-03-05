@@ -11,7 +11,7 @@ This repository contains the solution for the Scientific Paper of the Future sem
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the CC BY 4.0. License.
 See LICENSE file.
 
 ## Metadata (Codemeta)
