@@ -8,25 +8,25 @@ This repository contains the solution for the Scientific Paper of the Future sem
 - A release archived on Zenodo
 - License, citation, and workflow documentation
 
-##License
+## License
 
 This project is licensed under the Apache 2.0 License.
 See LICENSE file.
 
-##Metadata (Codemeta)
+## Metadata (Codemeta)
 
 See codemeta.json for machine-readable software metadata.
 
-##Citation
+## Citation
 
 If you use this repository, please cite:
 Gasperetti, Mara (2026). Seminar3. Zenodo. https://doi.org/10.5281/zenodo.18794359
 
-##Provenance Diagram
+## Provenance Diagram
 
 See prov_summary.pdf and seminar3.drawio for the complete provenance workflow.
 
-###Description of the prov elements
+### Description of the prov elements
 
 **Entities (data, documents):**
 - Survey v1 (Laura’s initial survey)
